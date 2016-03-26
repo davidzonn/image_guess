@@ -1,0 +1,26 @@
+nav ul, nav li{
+	list-style-type: none;
+	margin:0px;
+	margin-left: 10px;
+	width:20px;
+	padding: 0px;
+}
+nav ul {
+	margin-bottom:20px;
+}
+nav button {
+    color:black;
+    margin:0px;
+    padding:0px;
+    font-size:1em;
+    background-color:white;
+    min-width: 100px;
+}
+
+nav {
+    box-sizing:border-box;
+    float: left;
+    background: LightCyan;
+    padding:15px;
+	background: linear-gradient(to right, LightCyan, white, LightCyan);	
+}    

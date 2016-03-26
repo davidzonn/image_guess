@@ -1,0 +1,6 @@
+footer {
+	background: #ddd;
+	text-align: center;
+	padding: 4px 0;
+	background: linear-gradient(to bottom, LightCyan, white, LightCyan);
+}

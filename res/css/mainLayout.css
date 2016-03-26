@@ -1,0 +1,28 @@
+body {
+	margin:0;
+	padding:0;
+	font-family: Sans-Serif;
+	background-color: LightCyan;
+}
+
+nav {
+	width: 230px;
+}
+
+
+main{
+	box-sizing:border-box;
+	margin-left:-230px;
+	padding-left:245px;
+	float: left;
+	width: 100%;
+	padding-left:245px;
+}
+
+footer, header {
+	clear: left;
+	width: 100%;
+}
+
+
+
